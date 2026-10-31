@@ -1,0 +1,55 @@
+{
+  "code": "HOSEO-CHEONAN",
+  "title": "SMASH HOSEO CHEONAN",
+  "school": "호서대",
+  "fullName": "호서대학교",
+  "campusName": "호서대학교 천안캠퍼스",
+  "tagline": "호서대를 부셔 (시험기간 스트레스 해소)",
+  "description": "호서대학교 천안캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 호서대학교 천안캠퍼스 3D 화면과 SMASH HOSEO CHEONAN 제목",
+  "url": "https://hong-iron.github.io/SMASH-HOSEO-CHEONAN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "relation",
+    "id": 5470604
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/1352898443",
+      "n": "1동",
+      "why": "같은 건물 겹침 — 종합정보관(3번) 윤곽 안에 통째로 들어가는 위층 부분 윤곽이라, 게임에서는 같은 건물을 한 번 더 세우게 됩니다."
+    },
+    {
+      "at": [
+        36.8316094,
+        127.1811323
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖, 상명대 천안캠퍼스 땅(안서동 300) 운동장 옆에 있고, 사진에도 건물 없이 맨땅만 보입니다."
+    },
+    {
+      "at": [
+        36.8298982,
+        127.1809586
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 통학버스 주차장 모퉁이인데, 사진에는 나무 그늘만 있고 건물이 없습니다."
+    },
+    {
+      "at": [
+        36.8317396,
+        127.1801453
+      ],
+      "n": "주33 학군단(학무관)",
+      "why": "학교 건물 아님 — 캠퍼스 경계 밖 상명대 천안캠퍼스 땅(안서동 300)에 있는 학군단 건물로, 호서대 건물 목록에 없습니다."
+    }
+  ]
+}
