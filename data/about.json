@@ -1,0 +1,34 @@
+{
+ "region": "충남 천안시 동남구 안서동",
+ "nameEn": "Hoseo University Cheonan Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 147,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SMU-CHEONAN",
+   "campus": "상명대학교 천안캠퍼스",
+   "km": 0.6
+  },
+  {
+   "code": "BU",
+   "campus": "백석대학교",
+   "km": 1.3
+  },
+  {
+   "code": "DANKOOK-CHEONAN",
+   "campus": "단국대학교 천안캠퍼스",
+   "km": 1.5
+  },
+  {
+   "code": "KONGJU-CHEONAN",
+   "campus": "국립공주대학교 천안캠퍼스",
+   "km": 3.8
+  },
+  {
+   "code": "NAZARENE",
+   "campus": "나사렛대학교",
+   "km": 6.6
+  }
+ ]
+}
